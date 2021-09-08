@@ -6,7 +6,8 @@
 
 _Objetivo General_
 
--Comprender  las aplicaciones basicas de los transformadores.  
+-Comprender  las aplicaciones basicas de los transformadores.      
+
 _Objetivos Específicos_
 
 -Representar los voltajes y corrientes trifasicos en forma de fasores.
