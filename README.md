@@ -6,15 +6,14 @@
 
 _Objetivo General_
 
--Describir las formas de representar la generacion de voltaje en 3 fases.
-
+-Comprender  las aplicaciones basicas de los transformadores.  
 _Objetivos Específicos_
 
 -Representar los voltajes y corrientes trifasicos en forma de fasores.
 
--Analizar circuitos trifasicos balanceados.
-
--Describir algunas de las aplicaciones basicas de los transformadores.
+-Analizar circuitos trifasicos balanceados.      
+     
+-Describir las formas de representar la generacion de voltaje en 3 fases.
 
 **2. MARCO TEÓRICO**
 
