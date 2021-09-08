@@ -6,23 +6,35 @@
 
 _Objetivo General_
 
-
+-Describir las formas de representar la generacion de voltaje en 3 fases.
 
 _Objetivos Específicos_
 
+-Representar los voltajes y corrientes trifasicos en forma de fasores.
+
+-Analizar circuitos trifasicos balanceados.
+
+-Describir algunas de las aplicaciones basicas de los transformadores.
 
 **2. MARCO TEÓRICO**
 
 _Capítulo 23_     
-![Cap23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23.png)        
-![Cap23_1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_1.png)        
-![Cap23_2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_2.png)
 
+![Cap23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23.png)    
+
+![Cap23_1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_1.png) 
+
+![Cap23_2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Cap23_2.png)
 
 _Capítulo 24_
 
+![mt1](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt1.PNG)
 
+![mt2](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt2.PNG)
 
+![mt3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt3.PNG)
+
+![mt4](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/mt4.PNG)
 
 ![Mapa1-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/Fun.C%20Tarea%209%20resumen%20cap%2024%20m01.jpg)
 
@@ -80,14 +92,17 @@ _Capítulo 24_
 
 ![Ejer 53-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/53-C24.png)
 
-**4. VIDEO**     
+**4. VIDEO**   
+
 Link del video: https://youtu.be/R0lAHXxHmeM
-
-
 
 **5. CONCLUSIONES**
 
+-Los transformadores tienen muchas aplicaciones como sistemas de potencia electrica  para aumentar el voltaje en transmisiones , entre otras cosas.
 
+-El campo magnetico producido por una corriente en una bobina provoca un voltaje en la segunda bobina devanada en el mismo nucleo, los transformadores usan este efecto.
+
+-Podemos ver que los sistemas trifasicos difieren de los de una fase en donde se usan un conjunto de 3 voltajes sinusoidales de ca en vez de uno.
 
 **6. BIBLIOGRAFÍA**
 
