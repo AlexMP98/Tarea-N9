@@ -47,24 +47,63 @@ _Capítulo 24_
 **3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 _Capítulo 23_        
-![3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/3.png)      
-![5](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/5.png)       
-![7](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/7.png)       
-![9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/9.png)       
-![11](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/11.png)      
-![13](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/13.png)        
-![17](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/17.png)       
-![21](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/21.png)       
-![23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/23.png)        
-![27](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/27.png)        
-![29](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/29.png)        
-![31](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/31.png)        
+![3](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/3.png)    
 
+![5](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/5.png)  
+
+![7](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/7.png)   
+
+![9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/9.png)   
+
+![11](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/11.png)  
+
+![13](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/13.png) 
+
+![17](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/17.png)  
+
+![21](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/21.png)  
+
+![23](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/23.png) 
+
+![27](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/27.png) 
+
+![29](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/29.png)  
+
+![31](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/31.png) 
+
+![1t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/1t9.PNG) 
+
+![2t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/2t9.PNG) 
+
+![3t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/3t9.PNG)
+
+![4t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/4t9.PNG)
 
 _Capítulo 24_
 
+![5t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/5t9.PNG)
 
+![6t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/6t9.PNG)
 
+![7t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/7t9.PNG)
+
+![8t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/8t9.PNG)
+
+![9t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/9t9.PNG)
+
+![10t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/10t9.PNG)
+
+![11t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/11t9.PNG)
+
+![12t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/12t9.PNG)
+
+![13t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/13t9.PNG)
+
+![14t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/14t9.PNG)
+
+![15t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/15t9.PNG)
+
+![16t9](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/16t9.PNG)
 
 ![Ejer 25-C24](https://github.com/AlexMP98/Tarea-N9/blob/main/Imagenes/25-C24.png)
 
